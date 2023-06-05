@@ -1,3 +1,5 @@
+<!-- This is a sample README.md with the current info about the usage of the template. Modify it accordly to fit the needs of your library -->
+
 # Simply NPM Package Template
 
 A template for creating NPM packages with TypeScript, Jest, and ESLint.
@@ -27,7 +29,6 @@ The project follows this basic structure:
 └── README.md
 ```
 
-
 ## Usage
 
 Once you generate a project with this template, you can use these commands:
@@ -41,7 +42,3 @@ Once you generate a project with this template, you can use these commands:
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](<link to issues page>).
-
-## License
-
-This project is ISC licensed. See [LICENSE](<link to LICENSE file>) for more details.
